@@ -1,0 +1,17 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment variables file
+.env
+
+# Ignore personal audio files and generated transcripts
+data/wav/
+data/transcripts.json
+
+# Ignore local database files
+test.db

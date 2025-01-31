@@ -1,0 +1,28 @@
+# Core
+fastapi>=0.104.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+
+# Twilio
+twilio>=9.0.0
+
+# Transcription
+faster-whisper>=0.10.0
+
+# LLM
+huggingface-hub>=0.20.0
+transformers>=4.37.0
+torch>=2.1.0
+
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Auth
+sqlalchemy>=2.0.0
+fastapi-users==14.0.1
+fastapi-users-db-sqlalchemy==7.0.0
+
+
+
