@@ -1,0 +1,480 @@
+2025-01-31 22:31:23,684 [INFO] Loading existing transcripts from data/transcripts.json
+2025-01-31 22:31:23,695 [INFO] Found 9373 WAV files in directory.
+2025-01-31 22:31:23,696 [INFO] 9348 files remaining to process.
+2025-01-31 22:31:23,697 [INFO] Processing file 1/9348: RE3adc514eeb8475494366865917c75610.wav
+2025-01-31 22:31:23,697 [INFO] Starting transcription for data/wav/RE3adc514eeb8475494366865917c75610.wav
+[2025-01-31 22:31:24.441] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:31:24,552 [INFO] Processing audio with duration 02:38.260
+2025-01-31 22:32:01,386 [INFO] Completed transcription for data/wav/RE3adc514eeb8475494366865917c75610.wav
+2025-01-31 22:32:01,421 [INFO] Updated data/transcripts.json with transcript for RE3adc514eeb8475494366865917c75610.wav
+2025-01-31 22:32:01,421 [INFO] Processing file 2/9348: RE0cd0f0d70afdf57550ef51041985442f.wav
+2025-01-31 22:32:01,421 [INFO] Starting transcription for data/wav/RE0cd0f0d70afdf57550ef51041985442f.wav
+[2025-01-31 22:32:02.083] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:32:02,157 [INFO] Processing audio with duration 00:11.500
+2025-01-31 22:32:05,528 [INFO] Completed transcription for data/wav/RE0cd0f0d70afdf57550ef51041985442f.wav
+2025-01-31 22:32:05,560 [INFO] Updated data/transcripts.json with transcript for RE0cd0f0d70afdf57550ef51041985442f.wav
+2025-01-31 22:32:05,561 [INFO] Processing file 3/9348: RE6f71bde672f4d64b8eefbd81f9b35b07.wav
+2025-01-31 22:32:05,561 [INFO] Starting transcription for data/wav/RE6f71bde672f4d64b8eefbd81f9b35b07.wav
+[2025-01-31 22:32:06.076] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:32:06,152 [INFO] Processing audio with duration 00:22.560
+2025-01-31 22:32:11,944 [INFO] Completed transcription for data/wav/RE6f71bde672f4d64b8eefbd81f9b35b07.wav
+2025-01-31 22:32:11,978 [INFO] Updated data/transcripts.json with transcript for RE6f71bde672f4d64b8eefbd81f9b35b07.wav
+2025-01-31 22:32:11,978 [INFO] Processing file 4/9348: RE1c92627d6a8e5519907df083f0e500c3.wav
+2025-01-31 22:32:11,978 [INFO] Starting transcription for data/wav/RE1c92627d6a8e5519907df083f0e500c3.wav
+[2025-01-31 22:32:12.394] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:32:12,499 [INFO] Processing audio with duration 01:58.784
+2025-01-31 22:32:47,894 [INFO] Completed transcription for data/wav/RE1c92627d6a8e5519907df083f0e500c3.wav
+2025-01-31 22:32:47,925 [INFO] Updated data/transcripts.json with transcript for RE1c92627d6a8e5519907df083f0e500c3.wav
+2025-01-31 22:32:47,925 [INFO] Processing file 5/9348: RE5b875d8c4bd6501d452b5b3c0e45f891.wav
+2025-01-31 22:32:47,925 [INFO] Starting transcription for data/wav/RE5b875d8c4bd6501d452b5b3c0e45f891.wav
+[2025-01-31 22:32:48.514] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:32:48,622 [INFO] Processing audio with duration 03:38.600
+2025-01-31 22:33:52,097 [INFO] Completed transcription for data/wav/RE5b875d8c4bd6501d452b5b3c0e45f891.wav
+2025-01-31 22:33:52,140 [INFO] Updated data/transcripts.json with transcript for RE5b875d8c4bd6501d452b5b3c0e45f891.wav
+2025-01-31 22:33:52,140 [INFO] Processing file 6/9348: RE8a51c66a7662906d44ef2bce131cce1b.wav
+2025-01-31 22:33:52,140 [INFO] Starting transcription for data/wav/RE8a51c66a7662906d44ef2bce131cce1b.wav
+[2025-01-31 22:33:52.747] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:33:52,844 [INFO] Processing audio with duration 00:18.810
+2025-01-31 22:33:54,703 [INFO] Completed transcription for data/wav/RE8a51c66a7662906d44ef2bce131cce1b.wav
+2025-01-31 22:33:54,732 [INFO] Updated data/transcripts.json with transcript for RE8a51c66a7662906d44ef2bce131cce1b.wav
+2025-01-31 22:33:54,732 [INFO] Processing file 7/9348: RE5ed33cd6dc20ffe33888c780aefbaf0e.wav
+2025-01-31 22:33:54,732 [INFO] Starting transcription for data/wav/RE5ed33cd6dc20ffe33888c780aefbaf0e.wav
+[2025-01-31 22:33:55.259] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:33:55,350 [INFO] Processing audio with duration 01:15.860
+2025-01-31 22:34:15,526 [INFO] Completed transcription for data/wav/RE5ed33cd6dc20ffe33888c780aefbaf0e.wav
+2025-01-31 22:34:15,560 [INFO] Updated data/transcripts.json with transcript for RE5ed33cd6dc20ffe33888c780aefbaf0e.wav
+2025-01-31 22:34:15,560 [INFO] Processing file 8/9348: RE0f9fe4f9b0a4f9ed45d87899e134c81d.wav
+2025-01-31 22:34:15,560 [INFO] Starting transcription for data/wav/RE0f9fe4f9b0a4f9ed45d87899e134c81d.wav
+[2025-01-31 22:34:15.987] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:34:16,076 [INFO] Processing audio with duration 00:45.840
+2025-01-31 22:34:34,699 [INFO] Completed transcription for data/wav/RE0f9fe4f9b0a4f9ed45d87899e134c81d.wav
+2025-01-31 22:34:34,731 [INFO] Updated data/transcripts.json with transcript for RE0f9fe4f9b0a4f9ed45d87899e134c81d.wav
+2025-01-31 22:34:34,731 [INFO] Processing file 9/9348: RE8ce9662a420658003f6fc8226b5eb07c.wav
+2025-01-31 22:34:34,731 [INFO] Starting transcription for data/wav/RE8ce9662a420658003f6fc8226b5eb07c.wav
+[2025-01-31 22:34:35.180] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:34:35,274 [INFO] Processing audio with duration 01:53.400
+2025-01-31 22:35:05,151 [INFO] Completed transcription for data/wav/RE8ce9662a420658003f6fc8226b5eb07c.wav
+2025-01-31 22:35:05,180 [INFO] Updated data/transcripts.json with transcript for RE8ce9662a420658003f6fc8226b5eb07c.wav
+2025-01-31 22:35:05,180 [INFO] Processing file 10/9348: RE2ef7679ebb094c94ff199777ca7d7328.wav
+2025-01-31 22:35:05,180 [INFO] Starting transcription for data/wav/RE2ef7679ebb094c94ff199777ca7d7328.wav
+[2025-01-31 22:35:05.771] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:35:05,882 [INFO] Processing audio with duration 00:06.420
+2025-01-31 22:35:07,657 [INFO] Completed transcription for data/wav/RE2ef7679ebb094c94ff199777ca7d7328.wav
+2025-01-31 22:35:07,690 [INFO] Updated data/transcripts.json with transcript for RE2ef7679ebb094c94ff199777ca7d7328.wav
+2025-01-31 22:35:07,690 [INFO] Processing file 11/9348: RE2c9686321f6fa0f7456776ecba409a9a.wav
+2025-01-31 22:35:07,690 [INFO] Starting transcription for data/wav/RE2c9686321f6fa0f7456776ecba409a9a.wav
+[2025-01-31 22:35:08.178] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:35:08,294 [INFO] Processing audio with duration 03:07.840
+2025-01-31 22:36:05,373 [INFO] Completed transcription for data/wav/RE2c9686321f6fa0f7456776ecba409a9a.wav
+2025-01-31 22:36:05,415 [INFO] Updated data/transcripts.json with transcript for RE2c9686321f6fa0f7456776ecba409a9a.wav
+2025-01-31 22:36:05,415 [INFO] Processing file 12/9348: RE4f20c8b5a64283ccf29764cfb5cbf50d.wav
+2025-01-31 22:36:05,415 [INFO] Starting transcription for data/wav/RE4f20c8b5a64283ccf29764cfb5cbf50d.wav
+[2025-01-31 22:36:05.987] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:36:06,096 [INFO] Processing audio with duration 00:55.820
+2025-01-31 22:36:27,641 [INFO] Completed transcription for data/wav/RE4f20c8b5a64283ccf29764cfb5cbf50d.wav
+2025-01-31 22:36:27,674 [INFO] Updated data/transcripts.json with transcript for RE4f20c8b5a64283ccf29764cfb5cbf50d.wav
+2025-01-31 22:36:27,674 [INFO] Processing file 13/9348: RE9db18f2e1a003b590b8a5d4d7e1dd13f.wav
+2025-01-31 22:36:27,674 [INFO] Starting transcription for data/wav/RE9db18f2e1a003b590b8a5d4d7e1dd13f.wav
+[2025-01-31 22:36:28.248] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:36:28,348 [INFO] Processing audio with duration 00:39.700
+2025-01-31 22:36:39,146 [INFO] Completed transcription for data/wav/RE9db18f2e1a003b590b8a5d4d7e1dd13f.wav
+2025-01-31 22:36:39,174 [INFO] Updated data/transcripts.json with transcript for RE9db18f2e1a003b590b8a5d4d7e1dd13f.wav
+2025-01-31 22:36:39,174 [INFO] Processing file 14/9348: RE5f985f780980c98e69c3568fbfbfa75c.wav
+2025-01-31 22:36:39,174 [INFO] Starting transcription for data/wav/RE5f985f780980c98e69c3568fbfbfa75c.wav
+[2025-01-31 22:36:39.655] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:36:39,747 [INFO] Processing audio with duration 01:06.180
+2025-01-31 22:37:01,769 [INFO] Completed transcription for data/wav/RE5f985f780980c98e69c3568fbfbfa75c.wav
+2025-01-31 22:37:01,797 [INFO] Updated data/transcripts.json with transcript for RE5f985f780980c98e69c3568fbfbfa75c.wav
+2025-01-31 22:37:01,797 [INFO] Processing file 15/9348: RE6fb2d4508c54d9018bb4ce65c0fdd40a.wav
+2025-01-31 22:37:01,797 [INFO] Starting transcription for data/wav/RE6fb2d4508c54d9018bb4ce65c0fdd40a.wav
+[2025-01-31 22:37:02.299] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:37:02,418 [INFO] Processing audio with duration 03:32.360
+2025-01-31 22:38:07,108 [INFO] Completed transcription for data/wav/RE6fb2d4508c54d9018bb4ce65c0fdd40a.wav
+2025-01-31 22:38:07,140 [INFO] Updated data/transcripts.json with transcript for RE6fb2d4508c54d9018bb4ce65c0fdd40a.wav
+2025-01-31 22:38:07,140 [INFO] Processing file 16/9348: RE9dedd1170e37f45e17bf4f8e32c3a676.wav
+2025-01-31 22:38:07,140 [INFO] Starting transcription for data/wav/RE9dedd1170e37f45e17bf4f8e32c3a676.wav
+[2025-01-31 22:38:07.736] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:38:07,869 [INFO] Processing audio with duration 01:56.320
+2025-01-31 22:38:43,911 [INFO] Completed transcription for data/wav/RE9dedd1170e37f45e17bf4f8e32c3a676.wav
+2025-01-31 22:38:43,950 [INFO] Updated data/transcripts.json with transcript for RE9dedd1170e37f45e17bf4f8e32c3a676.wav
+2025-01-31 22:38:43,950 [INFO] Processing file 17/9348: RE8ae11d2bf808cae7e33113d75a9aafdc.wav
+2025-01-31 22:38:43,950 [INFO] Starting transcription for data/wav/RE8ae11d2bf808cae7e33113d75a9aafdc.wav
+[2025-01-31 22:38:44.546] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:38:44,636 [INFO] Processing audio with duration 00:27.820
+2025-01-31 22:38:46,169 [INFO] Completed transcription for data/wav/RE8ae11d2bf808cae7e33113d75a9aafdc.wav
+2025-01-31 22:38:46,198 [INFO] Updated data/transcripts.json with transcript for RE8ae11d2bf808cae7e33113d75a9aafdc.wav
+2025-01-31 22:38:46,198 [INFO] Processing file 18/9348: RE8e009a430e3fd11ea71dee4a68df4605.wav
+2025-01-31 22:38:46,198 [INFO] Starting transcription for data/wav/RE8e009a430e3fd11ea71dee4a68df4605.wav
+[2025-01-31 22:38:46.714] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:38:46,790 [INFO] Processing audio with duration 00:03.700
+2025-01-31 22:38:48,703 [INFO] Completed transcription for data/wav/RE8e009a430e3fd11ea71dee4a68df4605.wav
+2025-01-31 22:38:48,737 [INFO] Updated data/transcripts.json with transcript for RE8e009a430e3fd11ea71dee4a68df4605.wav
+2025-01-31 22:38:48,737 [INFO] Processing file 19/9348: RE9fa6aa92cf18ba723e639f1eb293b190.wav
+2025-01-31 22:38:48,737 [INFO] Starting transcription for data/wav/RE9fa6aa92cf18ba723e639f1eb293b190.wav
+[2025-01-31 22:38:49.250] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:38:49,358 [INFO] Processing audio with duration 01:59.580
+2025-01-31 22:39:26,431 [INFO] Completed transcription for data/wav/RE9fa6aa92cf18ba723e639f1eb293b190.wav
+2025-01-31 22:39:26,471 [INFO] Updated data/transcripts.json with transcript for RE9fa6aa92cf18ba723e639f1eb293b190.wav
+2025-01-31 22:39:26,471 [INFO] Processing file 20/9348: RE3f088fdc922d631f342d3320b4f6e239.wav
+2025-01-31 22:39:26,471 [INFO] Starting transcription for data/wav/RE3f088fdc922d631f342d3320b4f6e239.wav
+[2025-01-31 22:39:27.085] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:39:27,221 [INFO] Processing audio with duration 03:50.600
+2025-01-31 22:40:46,622 [INFO] Completed transcription for data/wav/RE3f088fdc922d631f342d3320b4f6e239.wav
+2025-01-31 22:40:46,656 [INFO] Updated data/transcripts.json with transcript for RE3f088fdc922d631f342d3320b4f6e239.wav
+2025-01-31 22:40:46,656 [INFO] Processing file 21/9348: RE5f71bb2b3c8c134258d383697819ce8d.wav
+2025-01-31 22:40:46,656 [INFO] Starting transcription for data/wav/RE5f71bb2b3c8c134258d383697819ce8d.wav
+[2025-01-31 22:40:47.258] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:40:47,415 [INFO] Processing audio with duration 06:50.220
+2025-01-31 22:42:36,997 [INFO] Completed transcription for data/wav/RE5f71bb2b3c8c134258d383697819ce8d.wav
+2025-01-31 22:42:37,035 [INFO] Updated data/transcripts.json with transcript for RE5f71bb2b3c8c134258d383697819ce8d.wav
+2025-01-31 22:42:37,035 [INFO] Processing file 22/9348: RE5f9a2904d59e025c739bec7327e2235d.wav
+2025-01-31 22:42:37,035 [INFO] Starting transcription for data/wav/RE5f9a2904d59e025c739bec7327e2235d.wav
+[2025-01-31 22:42:37.625] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:42:37,774 [INFO] Processing audio with duration 03:53.856
+2025-01-31 22:44:03,149 [INFO] Completed transcription for data/wav/RE5f9a2904d59e025c739bec7327e2235d.wav
+2025-01-31 22:44:03,184 [INFO] Updated data/transcripts.json with transcript for RE5f9a2904d59e025c739bec7327e2235d.wav
+2025-01-31 22:44:03,184 [INFO] Processing file 23/9348: RE4b70ae3e2c27ee116ea23c4ef1741116.wav
+2025-01-31 22:44:03,185 [INFO] Starting transcription for data/wav/RE4b70ae3e2c27ee116ea23c4ef1741116.wav
+[2025-01-31 22:44:03.812] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:44:03,942 [INFO] Processing audio with duration 03:13.560
+2025-01-31 22:44:55,875 [INFO] Completed transcription for data/wav/RE4b70ae3e2c27ee116ea23c4ef1741116.wav
+2025-01-31 22:44:55,913 [INFO] Updated data/transcripts.json with transcript for RE4b70ae3e2c27ee116ea23c4ef1741116.wav
+2025-01-31 22:44:55,913 [INFO] Processing file 24/9348: RE6b463040f85818159964c5c592b8d97d.wav
+2025-01-31 22:44:55,913 [INFO] Starting transcription for data/wav/RE6b463040f85818159964c5c592b8d97d.wav
+[2025-01-31 22:44:56.415] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:44:56,521 [INFO] Processing audio with duration 03:04.820
+2025-01-31 22:45:43,335 [INFO] Completed transcription for data/wav/RE6b463040f85818159964c5c592b8d97d.wav
+2025-01-31 22:45:43,376 [INFO] Updated data/transcripts.json with transcript for RE6b463040f85818159964c5c592b8d97d.wav
+2025-01-31 22:45:43,376 [INFO] Processing file 25/9348: RE08ee4ade98051392f55b501be3bcf5a9.wav
+2025-01-31 22:45:43,376 [INFO] Starting transcription for data/wav/RE08ee4ade98051392f55b501be3bcf5a9.wav
+[2025-01-31 22:45:44.054] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:45:44,183 [INFO] Processing audio with duration 03:50.660
+2025-01-31 22:47:09,504 [INFO] Completed transcription for data/wav/RE08ee4ade98051392f55b501be3bcf5a9.wav
+2025-01-31 22:47:09,539 [INFO] Updated data/transcripts.json with transcript for RE08ee4ade98051392f55b501be3bcf5a9.wav
+2025-01-31 22:47:09,539 [INFO] Processing file 26/9348: RE0c657f40c7ae16b0344fde147c8332ed.wav
+2025-01-31 22:47:09,539 [INFO] Starting transcription for data/wav/RE0c657f40c7ae16b0344fde147c8332ed.wav
+[2025-01-31 22:47:10.126] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:47:10,212 [INFO] Processing audio with duration 00:09.200
+2025-01-31 22:47:13,724 [INFO] Completed transcription for data/wav/RE0c657f40c7ae16b0344fde147c8332ed.wav
+2025-01-31 22:47:13,759 [INFO] Updated data/transcripts.json with transcript for RE0c657f40c7ae16b0344fde147c8332ed.wav
+2025-01-31 22:47:13,759 [INFO] Processing file 27/9348: RE0ab452890b4c54f9833908ed4e4541f5.wav
+2025-01-31 22:47:13,760 [INFO] Starting transcription for data/wav/RE0ab452890b4c54f9833908ed4e4541f5.wav
+[2025-01-31 22:47:14.215] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:47:14,324 [INFO] Processing audio with duration 01:36.140
+2025-01-31 22:47:53,028 [INFO] Completed transcription for data/wav/RE0ab452890b4c54f9833908ed4e4541f5.wav
+2025-01-31 22:47:53,059 [INFO] Updated data/transcripts.json with transcript for RE0ab452890b4c54f9833908ed4e4541f5.wav
+2025-01-31 22:47:53,059 [INFO] Processing file 28/9348: RE9cdf433b397e97c84ae8bff59af1b893.wav
+2025-01-31 22:47:53,059 [INFO] Starting transcription for data/wav/RE9cdf433b397e97c84ae8bff59af1b893.wav
+[2025-01-31 22:47:53.635] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:47:53,721 [INFO] Processing audio with duration 01:00.928
+2025-01-31 22:48:13,227 [INFO] Completed transcription for data/wav/RE9cdf433b397e97c84ae8bff59af1b893.wav
+2025-01-31 22:48:13,265 [INFO] Updated data/transcripts.json with transcript for RE9cdf433b397e97c84ae8bff59af1b893.wav
+2025-01-31 22:48:13,265 [INFO] Processing file 29/9348: RE5dab4899546827f4160b7ef784e98eb3.wav
+2025-01-31 22:48:13,265 [INFO] Starting transcription for data/wav/RE5dab4899546827f4160b7ef784e98eb3.wav
+[2025-01-31 22:48:13.774] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:48:13,862 [INFO] Processing audio with duration 00:40.900
+2025-01-31 22:48:22,177 [INFO] Completed transcription for data/wav/RE5dab4899546827f4160b7ef784e98eb3.wav
+2025-01-31 22:48:22,209 [INFO] Updated data/transcripts.json with transcript for RE5dab4899546827f4160b7ef784e98eb3.wav
+2025-01-31 22:48:22,209 [INFO] Processing file 30/9348: RE7ff058269f2f07c510f5b6223ef31b8f.wav
+2025-01-31 22:48:22,209 [INFO] Starting transcription for data/wav/RE7ff058269f2f07c510f5b6223ef31b8f.wav
+[2025-01-31 22:48:22.705] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:48:22,780 [INFO] Processing audio with duration 00:40.220
+2025-01-31 22:48:28,938 [INFO] Completed transcription for data/wav/RE7ff058269f2f07c510f5b6223ef31b8f.wav
+2025-01-31 22:48:28,974 [INFO] Updated data/transcripts.json with transcript for RE7ff058269f2f07c510f5b6223ef31b8f.wav
+2025-01-31 22:48:28,974 [INFO] Processing file 31/9348: RE0b9f1bbbd3f225b3654476a460636a5a.wav
+2025-01-31 22:48:28,974 [INFO] Starting transcription for data/wav/RE0b9f1bbbd3f225b3654476a460636a5a.wav
+[2025-01-31 22:48:29.452] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:48:29,532 [INFO] Processing audio with duration 00:11.420
+2025-01-31 22:48:34,148 [INFO] Completed transcription for data/wav/RE0b9f1bbbd3f225b3654476a460636a5a.wav
+2025-01-31 22:48:34,179 [INFO] Updated data/transcripts.json with transcript for RE0b9f1bbbd3f225b3654476a460636a5a.wav
+2025-01-31 22:48:34,179 [INFO] Processing file 32/9348: RE8d17049efd1982d4e08559acfd8c4504.wav
+2025-01-31 22:48:34,179 [INFO] Starting transcription for data/wav/RE8d17049efd1982d4e08559acfd8c4504.wav
+[2025-01-31 22:48:34.677] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:48:34,779 [INFO] Processing audio with duration 01:55.420
+2025-01-31 22:49:05,154 [INFO] Completed transcription for data/wav/RE8d17049efd1982d4e08559acfd8c4504.wav
+2025-01-31 22:49:05,189 [INFO] Updated data/transcripts.json with transcript for RE8d17049efd1982d4e08559acfd8c4504.wav
+2025-01-31 22:49:05,189 [INFO] Processing file 33/9348: RE4e8dd18a6a01b4010b9b546dd93cd028.wav
+2025-01-31 22:49:05,189 [INFO] Starting transcription for data/wav/RE4e8dd18a6a01b4010b9b546dd93cd028.wav
+[2025-01-31 22:49:05.695] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:49:05,951 [INFO] Processing audio with duration 18:18.460
+2025-01-31 22:49:53,739 [INFO] Completed transcription for data/wav/RE4e8dd18a6a01b4010b9b546dd93cd028.wav
+2025-01-31 22:49:53,770 [INFO] Updated data/transcripts.json with transcript for RE4e8dd18a6a01b4010b9b546dd93cd028.wav
+2025-01-31 22:49:53,770 [INFO] Processing file 34/9348: RE5e58de04cf6e80c9077c00176547e464.wav
+2025-01-31 22:49:53,770 [INFO] Starting transcription for data/wav/RE5e58de04cf6e80c9077c00176547e464.wav
+[2025-01-31 22:49:54.272] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:49:54,388 [INFO] Processing audio with duration 01:59.640
+2025-01-31 22:50:29,783 [INFO] Completed transcription for data/wav/RE5e58de04cf6e80c9077c00176547e464.wav
+2025-01-31 22:50:29,820 [INFO] Updated data/transcripts.json with transcript for RE5e58de04cf6e80c9077c00176547e464.wav
+2025-01-31 22:50:29,820 [INFO] Processing file 35/9348: RE4ae50632396564ee64391704a7b86099.wav
+2025-01-31 22:50:29,820 [INFO] Starting transcription for data/wav/RE4ae50632396564ee64391704a7b86099.wav
+[2025-01-31 22:50:30.395] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:50:30,513 [INFO] Processing audio with duration 01:34.680
+2025-01-31 22:50:54,600 [INFO] Completed transcription for data/wav/RE4ae50632396564ee64391704a7b86099.wav
+2025-01-31 22:50:54,639 [INFO] Updated data/transcripts.json with transcript for RE4ae50632396564ee64391704a7b86099.wav
+2025-01-31 22:50:54,639 [INFO] Processing file 36/9348: RE1e3ab383d4a6cf6b7101ffcd757476fe.wav
+2025-01-31 22:50:54,639 [INFO] Starting transcription for data/wav/RE1e3ab383d4a6cf6b7101ffcd757476fe.wav
+[2025-01-31 22:50:55.200] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:50:55,280 [INFO] Processing audio with duration 00:15.580
+2025-01-31 22:50:57,949 [INFO] Completed transcription for data/wav/RE1e3ab383d4a6cf6b7101ffcd757476fe.wav
+2025-01-31 22:50:57,978 [INFO] Updated data/transcripts.json with transcript for RE1e3ab383d4a6cf6b7101ffcd757476fe.wav
+2025-01-31 22:50:57,978 [INFO] Processing file 37/9348: RE2b6f8da01a762b8b6571b58f5ba68abb.wav
+2025-01-31 22:50:57,978 [INFO] Starting transcription for data/wav/RE2b6f8da01a762b8b6571b58f5ba68abb.wav
+[2025-01-31 22:50:58.700] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:50:58,801 [INFO] Processing audio with duration 03:14.220
+2025-01-31 22:51:49,685 [INFO] Completed transcription for data/wav/RE2b6f8da01a762b8b6571b58f5ba68abb.wav
+2025-01-31 22:51:49,719 [INFO] Updated data/transcripts.json with transcript for RE2b6f8da01a762b8b6571b58f5ba68abb.wav
+2025-01-31 22:51:49,719 [INFO] Processing file 38/9348: RE6d0208f72ff7a3a2ecc7061e0bd6a946.wav
+2025-01-31 22:51:49,719 [INFO] Starting transcription for data/wav/RE6d0208f72ff7a3a2ecc7061e0bd6a946.wav
+[2025-01-31 22:51:50.166] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:51:50,261 [INFO] Processing audio with duration 00:13.920
+2025-01-31 22:51:54,640 [INFO] Completed transcription for data/wav/RE6d0208f72ff7a3a2ecc7061e0bd6a946.wav
+2025-01-31 22:51:54,669 [INFO] Updated data/transcripts.json with transcript for RE6d0208f72ff7a3a2ecc7061e0bd6a946.wav
+2025-01-31 22:51:54,669 [INFO] Processing file 39/9348: RE0e7c052fae4d43588540deaffbad2068.wav
+2025-01-31 22:51:54,669 [INFO] Starting transcription for data/wav/RE0e7c052fae4d43588540deaffbad2068.wav
+[2025-01-31 22:51:55.212] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:51:55,285 [INFO] Processing audio with duration 00:06.180
+2025-01-31 22:51:57,068 [INFO] Completed transcription for data/wav/RE0e7c052fae4d43588540deaffbad2068.wav
+2025-01-31 22:51:57,104 [INFO] Updated data/transcripts.json with transcript for RE0e7c052fae4d43588540deaffbad2068.wav
+2025-01-31 22:51:57,104 [INFO] Processing file 40/9348: RE3fd35049a8193746825950bedef3a8f7.wav
+2025-01-31 22:51:57,104 [INFO] Starting transcription for data/wav/RE3fd35049a8193746825950bedef3a8f7.wav
+[2025-01-31 22:51:57.581] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:51:57,694 [INFO] Processing audio with duration 03:57.560
+2025-01-31 22:53:05,060 [INFO] Completed transcription for data/wav/RE3fd35049a8193746825950bedef3a8f7.wav
+2025-01-31 22:53:05,089 [INFO] Updated data/transcripts.json with transcript for RE3fd35049a8193746825950bedef3a8f7.wav
+2025-01-31 22:53:05,089 [INFO] Processing file 41/9348: RE04b1420a2f2833dddf771c29eb7b89df.wav
+2025-01-31 22:53:05,089 [INFO] Starting transcription for data/wav/RE04b1420a2f2833dddf771c29eb7b89df.wav
+[2025-01-31 22:53:05.626] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:53:05,719 [INFO] Processing audio with duration 00:30.680
+2025-01-31 22:53:15,013 [INFO] Completed transcription for data/wav/RE04b1420a2f2833dddf771c29eb7b89df.wav
+2025-01-31 22:53:15,040 [INFO] Updated data/transcripts.json with transcript for RE04b1420a2f2833dddf771c29eb7b89df.wav
+2025-01-31 22:53:15,040 [INFO] Processing file 42/9348: RE8fe92eda56671130f0aa4803af2b4f81.wav
+2025-01-31 22:53:15,040 [INFO] Starting transcription for data/wav/RE8fe92eda56671130f0aa4803af2b4f81.wav
+[2025-01-31 22:53:15.517] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:53:15,601 [INFO] Processing audio with duration 00:37.400
+2025-01-31 22:53:28,445 [INFO] Completed transcription for data/wav/RE8fe92eda56671130f0aa4803af2b4f81.wav
+2025-01-31 22:53:28,482 [INFO] Updated data/transcripts.json with transcript for RE8fe92eda56671130f0aa4803af2b4f81.wav
+2025-01-31 22:53:28,482 [INFO] Processing file 43/9348: RE3ed7db2d571aeb3a6e0013e71d4eefec.wav
+2025-01-31 22:53:28,482 [INFO] Starting transcription for data/wav/RE3ed7db2d571aeb3a6e0013e71d4eefec.wav
+[2025-01-31 22:53:29.021] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:53:29,118 [INFO] Processing audio with duration 01:52.980
+2025-01-31 22:54:00,277 [INFO] Completed transcription for data/wav/RE3ed7db2d571aeb3a6e0013e71d4eefec.wav
+2025-01-31 22:54:00,313 [INFO] Updated data/transcripts.json with transcript for RE3ed7db2d571aeb3a6e0013e71d4eefec.wav
+2025-01-31 22:54:00,313 [INFO] Processing file 44/9348: RE1f8857f4072c37b25036c763af790952.wav
+2025-01-31 22:54:00,313 [INFO] Starting transcription for data/wav/RE1f8857f4072c37b25036c763af790952.wav
+[2025-01-31 22:54:00.901] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:54:01,005 [INFO] Processing audio with duration 00:08.320
+2025-01-31 22:54:03,346 [INFO] Completed transcription for data/wav/RE1f8857f4072c37b25036c763af790952.wav
+2025-01-31 22:54:03,378 [INFO] Updated data/transcripts.json with transcript for RE1f8857f4072c37b25036c763af790952.wav
+2025-01-31 22:54:03,378 [INFO] Processing file 45/9348: RE7e055add8d5c5d12071783f84e547f29.wav
+2025-01-31 22:54:03,378 [INFO] Starting transcription for data/wav/RE7e055add8d5c5d12071783f84e547f29.wav
+[2025-01-31 22:54:03.851] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:54:03,924 [INFO] Processing audio with duration 00:00.500
+2025-01-31 22:54:04,896 [INFO] Completed transcription for data/wav/RE7e055add8d5c5d12071783f84e547f29.wav
+2025-01-31 22:54:04,922 [INFO] Updated data/transcripts.json with transcript for RE7e055add8d5c5d12071783f84e547f29.wav
+2025-01-31 22:54:04,922 [INFO] Processing file 46/9348: RE4dff2fb3412071243711c298ec048618.wav
+2025-01-31 22:54:04,922 [INFO] Starting transcription for data/wav/RE4dff2fb3412071243711c298ec048618.wav
+[2025-01-31 22:54:05.417] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:54:05,518 [INFO] Processing audio with duration 01:06.720
+2025-01-31 22:54:20,396 [INFO] Completed transcription for data/wav/RE4dff2fb3412071243711c298ec048618.wav
+2025-01-31 22:54:20,429 [INFO] Updated data/transcripts.json with transcript for RE4dff2fb3412071243711c298ec048618.wav
+2025-01-31 22:54:20,429 [INFO] Processing file 47/9348: RE8bd99bcb22ba8f6cd5b625be0f966345.wav
+2025-01-31 22:54:20,429 [INFO] Starting transcription for data/wav/RE8bd99bcb22ba8f6cd5b625be0f966345.wav
+[2025-01-31 22:54:21.048] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:54:21,178 [INFO] Processing audio with duration 05:20.400
+2025-01-31 22:55:42,166 [INFO] Completed transcription for data/wav/RE8bd99bcb22ba8f6cd5b625be0f966345.wav
+2025-01-31 22:55:42,204 [INFO] Updated data/transcripts.json with transcript for RE8bd99bcb22ba8f6cd5b625be0f966345.wav
+2025-01-31 22:55:42,204 [INFO] Processing file 48/9348: RE1fded1cc1231ffb87bb5c93249ac0d09.wav
+2025-01-31 22:55:42,204 [INFO] Starting transcription for data/wav/RE1fded1cc1231ffb87bb5c93249ac0d09.wav
+[2025-01-31 22:55:42.710] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:55:42,836 [INFO] Processing audio with duration 01:33.120
+2025-01-31 22:56:15,554 [INFO] Completed transcription for data/wav/RE1fded1cc1231ffb87bb5c93249ac0d09.wav
+2025-01-31 22:56:15,590 [INFO] Updated data/transcripts.json with transcript for RE1fded1cc1231ffb87bb5c93249ac0d09.wav
+2025-01-31 22:56:15,590 [INFO] Processing file 49/9348: RE1c1b649eae68de63bdadb5b6e763678e.wav
+2025-01-31 22:56:15,590 [INFO] Starting transcription for data/wav/RE1c1b649eae68de63bdadb5b6e763678e.wav
+[2025-01-31 22:56:16.358] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:56:16,446 [INFO] Processing audio with duration 01:22.860
+2025-01-31 22:56:44,869 [INFO] Completed transcription for data/wav/RE1c1b649eae68de63bdadb5b6e763678e.wav
+2025-01-31 22:56:44,906 [INFO] Updated data/transcripts.json with transcript for RE1c1b649eae68de63bdadb5b6e763678e.wav
+2025-01-31 22:56:44,906 [INFO] Processing file 50/9348: RE8a53c95628f5d6b486a0c5eb0b554a95.wav
+2025-01-31 22:56:44,906 [INFO] Starting transcription for data/wav/RE8a53c95628f5d6b486a0c5eb0b554a95.wav
+[2025-01-31 22:56:45.476] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:56:45,575 [INFO] Processing audio with duration 00:45.940
+2025-01-31 22:56:58,218 [INFO] Completed transcription for data/wav/RE8a53c95628f5d6b486a0c5eb0b554a95.wav
+2025-01-31 22:56:58,255 [INFO] Updated data/transcripts.json with transcript for RE8a53c95628f5d6b486a0c5eb0b554a95.wav
+2025-01-31 22:56:58,256 [INFO] Processing file 51/9348: RE8e3a0690eb63a3c7d30360caee0addbc.wav
+2025-01-31 22:56:58,256 [INFO] Starting transcription for data/wav/RE8e3a0690eb63a3c7d30360caee0addbc.wav
+[2025-01-31 22:56:58.805] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:56:58,969 [INFO] Processing audio with duration 07:13.220
+2025-01-31 22:58:56,506 [INFO] Completed transcription for data/wav/RE8e3a0690eb63a3c7d30360caee0addbc.wav
+2025-01-31 22:58:56,545 [INFO] Updated data/transcripts.json with transcript for RE8e3a0690eb63a3c7d30360caee0addbc.wav
+2025-01-31 22:58:56,545 [INFO] Processing file 52/9348: RE1d2ce562a690e3f3cf961b2f9cb5d595.wav
+2025-01-31 22:58:56,545 [INFO] Starting transcription for data/wav/RE1d2ce562a690e3f3cf961b2f9cb5d595.wav
+[2025-01-31 22:58:57.117] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:58:57,220 [INFO] Processing audio with duration 00:11.040
+2025-01-31 22:59:00,538 [INFO] Completed transcription for data/wav/RE1d2ce562a690e3f3cf961b2f9cb5d595.wav
+2025-01-31 22:59:00,569 [INFO] Updated data/transcripts.json with transcript for RE1d2ce562a690e3f3cf961b2f9cb5d595.wav
+2025-01-31 22:59:00,569 [INFO] Processing file 53/9348: RE6bd90d96c1a71cdb77741ab665473b59.wav
+2025-01-31 22:59:00,569 [INFO] Starting transcription for data/wav/RE6bd90d96c1a71cdb77741ab665473b59.wav
+[2025-01-31 22:59:01.032] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:59:01,101 [INFO] Processing audio with duration 00:38.560
+2025-01-31 22:59:13,501 [INFO] Completed transcription for data/wav/RE6bd90d96c1a71cdb77741ab665473b59.wav
+2025-01-31 22:59:13,527 [INFO] Updated data/transcripts.json with transcript for RE6bd90d96c1a71cdb77741ab665473b59.wav
+2025-01-31 22:59:13,527 [INFO] Processing file 54/9348: RE5cb684546d459b51687339b02ea35037.wav
+2025-01-31 22:59:13,527 [INFO] Starting transcription for data/wav/RE5cb684546d459b51687339b02ea35037.wav
+[2025-01-31 22:59:14.168] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:59:14,245 [INFO] Processing audio with duration 00:14.600
+2025-01-31 22:59:18,312 [INFO] Completed transcription for data/wav/RE5cb684546d459b51687339b02ea35037.wav
+2025-01-31 22:59:18,344 [INFO] Updated data/transcripts.json with transcript for RE5cb684546d459b51687339b02ea35037.wav
+2025-01-31 22:59:18,344 [INFO] Processing file 55/9348: RE2dad71ea2d8a9479959fed3a243f59a1.wav
+2025-01-31 22:59:18,344 [INFO] Starting transcription for data/wav/RE2dad71ea2d8a9479959fed3a243f59a1.wav
+[2025-01-31 22:59:18.829] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 22:59:18,947 [INFO] Processing audio with duration 03:21.980
+2025-01-31 23:00:12,746 [INFO] Completed transcription for data/wav/RE2dad71ea2d8a9479959fed3a243f59a1.wav
+2025-01-31 23:00:12,778 [INFO] Updated data/transcripts.json with transcript for RE2dad71ea2d8a9479959fed3a243f59a1.wav
+2025-01-31 23:00:12,778 [INFO] Processing file 56/9348: RE01cc6f900b1e4ce3a4c77da80107ceb6.wav
+2025-01-31 23:00:12,778 [INFO] Starting transcription for data/wav/RE01cc6f900b1e4ce3a4c77da80107ceb6.wav
+[2025-01-31 23:00:13.367] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:00:13,474 [INFO] Processing audio with duration 01:03.420
+2025-01-31 23:00:30,987 [INFO] Completed transcription for data/wav/RE01cc6f900b1e4ce3a4c77da80107ceb6.wav
+2025-01-31 23:00:31,028 [INFO] Updated data/transcripts.json with transcript for RE01cc6f900b1e4ce3a4c77da80107ceb6.wav
+2025-01-31 23:00:31,031 [INFO] Processing file 57/9348: RE7c82e9da4804dcd37026f7e2ab98d8aa.wav
+2025-01-31 23:00:31,031 [INFO] Starting transcription for data/wav/RE7c82e9da4804dcd37026f7e2ab98d8aa.wav
+[2025-01-31 23:00:31.555] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:00:31,653 [INFO] Processing audio with duration 01:12.640
+2025-01-31 23:00:50,950 [INFO] Completed transcription for data/wav/RE7c82e9da4804dcd37026f7e2ab98d8aa.wav
+2025-01-31 23:00:50,984 [INFO] Updated data/transcripts.json with transcript for RE7c82e9da4804dcd37026f7e2ab98d8aa.wav
+2025-01-31 23:00:50,984 [INFO] Processing file 58/9348: RE4d4a770ed673976859cd618879187c8e.wav
+2025-01-31 23:00:50,984 [INFO] Starting transcription for data/wav/RE4d4a770ed673976859cd618879187c8e.wav
+[2025-01-31 23:00:51.527] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:00:51,610 [INFO] Processing audio with duration 00:48.160
+2025-01-31 23:01:02,200 [INFO] Completed transcription for data/wav/RE4d4a770ed673976859cd618879187c8e.wav
+2025-01-31 23:01:02,235 [INFO] Updated data/transcripts.json with transcript for RE4d4a770ed673976859cd618879187c8e.wav
+2025-01-31 23:01:02,235 [INFO] Processing file 59/9348: RE2ebb71bfe79477f07be500abb9bbe52d.wav
+2025-01-31 23:01:02,235 [INFO] Starting transcription for data/wav/RE2ebb71bfe79477f07be500abb9bbe52d.wav
+[2025-01-31 23:01:02.722] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:01:02,807 [INFO] Processing audio with duration 00:00.280
+2025-01-31 23:01:03,687 [INFO] Completed transcription for data/wav/RE2ebb71bfe79477f07be500abb9bbe52d.wav
+2025-01-31 23:01:03,725 [INFO] Updated data/transcripts.json with transcript for RE2ebb71bfe79477f07be500abb9bbe52d.wav
+2025-01-31 23:01:03,725 [INFO] Processing file 60/9348: RE5e8f43696fa97f74c674a6dca450592e.wav
+2025-01-31 23:01:03,726 [INFO] Starting transcription for data/wav/RE5e8f43696fa97f74c674a6dca450592e.wav
+[2025-01-31 23:01:04.144] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:01:04,234 [INFO] Processing audio with duration 01:55.780
+2025-01-31 23:01:34,517 [INFO] Completed transcription for data/wav/RE5e8f43696fa97f74c674a6dca450592e.wav
+2025-01-31 23:01:34,549 [INFO] Updated data/transcripts.json with transcript for RE5e8f43696fa97f74c674a6dca450592e.wav
+2025-01-31 23:01:34,549 [INFO] Processing file 61/9348: RE6aff55aef171bee5d02ba68c2efd4c35.wav
+2025-01-31 23:01:34,549 [INFO] Starting transcription for data/wav/RE6aff55aef171bee5d02ba68c2efd4c35.wav
+[2025-01-31 23:01:35.021] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:01:35,117 [INFO] Processing audio with duration 00:41.160
+2025-01-31 23:01:48,053 [INFO] Completed transcription for data/wav/RE6aff55aef171bee5d02ba68c2efd4c35.wav
+2025-01-31 23:01:48,084 [INFO] Updated data/transcripts.json with transcript for RE6aff55aef171bee5d02ba68c2efd4c35.wav
+2025-01-31 23:01:48,084 [INFO] Processing file 62/9348: RE3bdc31eb1ff79015f679377b86b69c57.wav
+2025-01-31 23:01:48,084 [INFO] Starting transcription for data/wav/RE3bdc31eb1ff79015f679377b86b69c57.wav
+[2025-01-31 23:01:48.526] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:01:48,605 [INFO] Processing audio with duration 00:23.360
+2025-01-31 23:01:53,541 [INFO] Completed transcription for data/wav/RE3bdc31eb1ff79015f679377b86b69c57.wav
+2025-01-31 23:01:53,570 [INFO] Updated data/transcripts.json with transcript for RE3bdc31eb1ff79015f679377b86b69c57.wav
+2025-01-31 23:01:53,570 [INFO] Processing file 63/9348: RE1cf06fc4ec91cee3da915099993477ad.wav
+2025-01-31 23:01:53,570 [INFO] Starting transcription for data/wav/RE1cf06fc4ec91cee3da915099993477ad.wav
+[2025-01-31 23:01:54.069] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:01:54,178 [INFO] Processing audio with duration 02:24.540
+2025-01-31 23:02:24,357 [INFO] Completed transcription for data/wav/RE1cf06fc4ec91cee3da915099993477ad.wav
+2025-01-31 23:02:24,392 [INFO] Updated data/transcripts.json with transcript for RE1cf06fc4ec91cee3da915099993477ad.wav
+2025-01-31 23:02:24,392 [INFO] Processing file 64/9348: RE5e4122165ca32924a7ebeecc615d69f8.wav
+2025-01-31 23:02:24,392 [INFO] Starting transcription for data/wav/RE5e4122165ca32924a7ebeecc615d69f8.wav
+[2025-01-31 23:02:25.081] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:02:25,175 [INFO] Processing audio with duration 00:40.580
+2025-01-31 23:02:37,891 [INFO] Completed transcription for data/wav/RE5e4122165ca32924a7ebeecc615d69f8.wav
+2025-01-31 23:02:37,925 [INFO] Updated data/transcripts.json with transcript for RE5e4122165ca32924a7ebeecc615d69f8.wav
+2025-01-31 23:02:37,926 [INFO] Processing file 65/9348: RE3ad9fad96ccbb2e624040efd16b06d63.wav
+2025-01-31 23:02:37,926 [INFO] Starting transcription for data/wav/RE3ad9fad96ccbb2e624040efd16b06d63.wav
+[2025-01-31 23:02:38.400] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:02:38,501 [INFO] Processing audio with duration 01:16.820
+2025-01-31 23:02:58,685 [INFO] Completed transcription for data/wav/RE3ad9fad96ccbb2e624040efd16b06d63.wav
+2025-01-31 23:02:58,716 [INFO] Updated data/transcripts.json with transcript for RE3ad9fad96ccbb2e624040efd16b06d63.wav
+2025-01-31 23:02:58,716 [INFO] Processing file 66/9348: RE5f66b7aa7cf02d0fc79be1f3ee5913fe.wav
+2025-01-31 23:02:58,716 [INFO] Starting transcription for data/wav/RE5f66b7aa7cf02d0fc79be1f3ee5913fe.wav
+[2025-01-31 23:02:59.270] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:02:59,359 [INFO] Processing audio with duration 00:04.180
+2025-01-31 23:03:00,627 [INFO] Completed transcription for data/wav/RE5f66b7aa7cf02d0fc79be1f3ee5913fe.wav
+2025-01-31 23:03:00,662 [INFO] Updated data/transcripts.json with transcript for RE5f66b7aa7cf02d0fc79be1f3ee5913fe.wav
+2025-01-31 23:03:00,662 [INFO] Processing file 67/9348: RE1cf22db0e3d5ae49355f6e1c0ebbd71f.wav
+2025-01-31 23:03:00,662 [INFO] Starting transcription for data/wav/RE1cf22db0e3d5ae49355f6e1c0ebbd71f.wav
+[2025-01-31 23:03:01.154] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:03:01,241 [INFO] Processing audio with duration 00:38.480
+2025-01-31 23:03:14,030 [INFO] Completed transcription for data/wav/RE1cf22db0e3d5ae49355f6e1c0ebbd71f.wav
+2025-01-31 23:03:14,062 [INFO] Updated data/transcripts.json with transcript for RE1cf22db0e3d5ae49355f6e1c0ebbd71f.wav
+2025-01-31 23:03:14,062 [INFO] Processing file 68/9348: RE0b11a441f2cfe09e648104abf07cd222.wav
+2025-01-31 23:03:14,062 [INFO] Starting transcription for data/wav/RE0b11a441f2cfe09e648104abf07cd222.wav
+[2025-01-31 23:03:14.524] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:03:14,712 [INFO] Processing audio with duration 10:25.880
+2025-01-31 23:06:36,987 [INFO] Completed transcription for data/wav/RE0b11a441f2cfe09e648104abf07cd222.wav
+2025-01-31 23:06:37,022 [INFO] Updated data/transcripts.json with transcript for RE0b11a441f2cfe09e648104abf07cd222.wav
+2025-01-31 23:06:37,022 [INFO] Processing file 69/9348: RE8c82c1fa3d02676921bd16e0a86fe63f.wav
+2025-01-31 23:06:37,022 [INFO] Starting transcription for data/wav/RE8c82c1fa3d02676921bd16e0a86fe63f.wav
+[2025-01-31 23:06:37.647] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:06:37,747 [INFO] Processing audio with duration 00:09.400
+2025-01-31 23:06:38,669 [INFO] Completed transcription for data/wav/RE8c82c1fa3d02676921bd16e0a86fe63f.wav
+2025-01-31 23:06:38,713 [INFO] Updated data/transcripts.json with transcript for RE8c82c1fa3d02676921bd16e0a86fe63f.wav
+2025-01-31 23:06:38,713 [INFO] Processing file 70/9348: RE1a499a719d42d64850dc573f022bfa28.wav
+2025-01-31 23:06:38,713 [INFO] Starting transcription for data/wav/RE1a499a719d42d64850dc573f022bfa28.wav
+[2025-01-31 23:06:39.211] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:06:39,310 [INFO] Processing audio with duration 01:46.040
+2025-01-31 23:07:20,534 [INFO] Completed transcription for data/wav/RE1a499a719d42d64850dc573f022bfa28.wav
+2025-01-31 23:07:20,561 [INFO] Updated data/transcripts.json with transcript for RE1a499a719d42d64850dc573f022bfa28.wav
+2025-01-31 23:07:20,561 [INFO] Processing file 71/9348: RE2b141e8ba1e69bd2ce2da9d29282375c.wav
+2025-01-31 23:07:20,561 [INFO] Starting transcription for data/wav/RE2b141e8ba1e69bd2ce2da9d29282375c.wav
+[2025-01-31 23:07:21.201] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:07:21,389 [INFO] Processing audio with duration 08:57.060
+2025-01-31 23:10:19,235 [INFO] Completed transcription for data/wav/RE2b141e8ba1e69bd2ce2da9d29282375c.wav
+2025-01-31 23:10:19,285 [INFO] Updated data/transcripts.json with transcript for RE2b141e8ba1e69bd2ce2da9d29282375c.wav
+2025-01-31 23:10:19,285 [INFO] Processing file 72/9348: RE7b6a133a1e259893646fb2c251df5893.wav
+2025-01-31 23:10:19,285 [INFO] Starting transcription for data/wav/RE7b6a133a1e259893646fb2c251df5893.wav
+[2025-01-31 23:10:19.808] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:10:19,918 [INFO] Processing audio with duration 00:41.520
+2025-01-31 23:10:32,760 [INFO] Completed transcription for data/wav/RE7b6a133a1e259893646fb2c251df5893.wav
+2025-01-31 23:10:32,794 [INFO] Updated data/transcripts.json with transcript for RE7b6a133a1e259893646fb2c251df5893.wav
+2025-01-31 23:10:32,794 [INFO] Processing file 73/9348: RE4e31ee9447b59dc234e6739d0fc7faf6.wav
+2025-01-31 23:10:32,794 [INFO] Starting transcription for data/wav/RE4e31ee9447b59dc234e6739d0fc7faf6.wav
+[2025-01-31 23:10:33.326] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:10:33,444 [INFO] Processing audio with duration 03:00.120
+2025-01-31 23:11:34,110 [INFO] Completed transcription for data/wav/RE4e31ee9447b59dc234e6739d0fc7faf6.wav
+2025-01-31 23:11:34,156 [INFO] Updated data/transcripts.json with transcript for RE4e31ee9447b59dc234e6739d0fc7faf6.wav
+2025-01-31 23:11:34,156 [INFO] Processing file 74/9348: RE5ad60c9f8f9c9017585a8ed00eacd0ce.wav
+2025-01-31 23:11:34,156 [INFO] Starting transcription for data/wav/RE5ad60c9f8f9c9017585a8ed00eacd0ce.wav
+[2025-01-31 23:11:34.791] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:11:34,939 [INFO] Processing audio with duration 04:28.540
+2025-01-31 23:12:51,803 [INFO] Completed transcription for data/wav/RE5ad60c9f8f9c9017585a8ed00eacd0ce.wav
+2025-01-31 23:12:51,839 [INFO] Updated data/transcripts.json with transcript for RE5ad60c9f8f9c9017585a8ed00eacd0ce.wav
+2025-01-31 23:12:51,840 [INFO] Processing file 75/9348: RE5b3d34d469ab59c67dee5e6954cc536a.wav
+2025-01-31 23:12:51,840 [INFO] Starting transcription for data/wav/RE5b3d34d469ab59c67dee5e6954cc536a.wav
+[2025-01-31 23:12:52.413] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:12:52,527 [INFO] Processing audio with duration 01:43.840
+2025-01-31 23:13:20,595 [INFO] Completed transcription for data/wav/RE5b3d34d469ab59c67dee5e6954cc536a.wav
+2025-01-31 23:13:20,632 [INFO] Updated data/transcripts.json with transcript for RE5b3d34d469ab59c67dee5e6954cc536a.wav
+2025-01-31 23:13:20,632 [INFO] Processing file 76/9348: RE4d0e5a589cf457c15d1dacbf1a0eb243.wav
+2025-01-31 23:13:20,632 [INFO] Starting transcription for data/wav/RE4d0e5a589cf457c15d1dacbf1a0eb243.wav
+[2025-01-31 23:13:21.141] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:13:21,226 [INFO] Processing audio with duration 00:23.780
+2025-01-31 23:13:24,512 [INFO] Completed transcription for data/wav/RE4d0e5a589cf457c15d1dacbf1a0eb243.wav
+2025-01-31 23:13:24,542 [INFO] Updated data/transcripts.json with transcript for RE4d0e5a589cf457c15d1dacbf1a0eb243.wav
+2025-01-31 23:13:24,542 [INFO] Processing file 77/9348: RE5d7959a99d26d8df4581a18c6e6fdf9f.wav
+2025-01-31 23:13:24,542 [INFO] Starting transcription for data/wav/RE5d7959a99d26d8df4581a18c6e6fdf9f.wav
+[2025-01-31 23:13:25.009] [ctranslate2] [thread 2364773] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+2025-01-31 23:13:25,102 [INFO] Processing audio with duration 02:01.660
+Traceback (most recent call last):
+  File "/Users/frankspencer/ai-teleprompter/data_processing.py", line 45, in <module>
+    transcript_text = transcribe_wav(str(wav_file))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frankspencer/ai-teleprompter/data_processing.py", line 15, in transcribe_wav
+    transcript = " ".join(segment.text for segment in segments)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frankspencer/ai-teleprompter/data_processing.py", line 15, in <genexpr>
+    transcript = " ".join(segment.text for segment in segments)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frankspencer/ai-teleprompter/venv/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1171, in generate_segments
+    ) = self.generate_with_fallback(encoder_output, prompt, tokenizer, options)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frankspencer/ai-teleprompter/venv/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1404, in generate_with_fallback
+    result = self.model.generate(
+             ^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

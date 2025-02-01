@@ -1,0 +1,115 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - AI Teleprompter{% endblock %}
+
+{% block content %}
+<h1>AI Teleprompter Dashboard</h1>
+
+<div class="row">
+  <!-- Summary Metrics Cards -->
+  <div class="col-md-4">
+    <div class="card text-white bg-info mb-3">
+      <div class="card-header">Total Calls</div>
+      <div class="card-body">
+        <h5 class="card-title">{{ total_calls }}</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card text-white bg-success mb-3">
+      <div class="card-header">Total Transcripts</div>
+      <div class="card-body">
+        <h5 class="card-title">{{ total_transcripts }}</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card text-white bg-warning mb-3">
+      <div class="card-header">Avg Transcript Length</div>
+      <div class="card-body">
+        <h5 class="card-title">{{ avg_transcript_length }}</h5>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Transcripts Table -->
+<h2>Transcripts</h2>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>File</th>
+      <th>Transcript</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for transcript in transcripts %}
+    <tr>
+      <td>{{ transcript.file }}</td>
+      <td>{{ transcript.text }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<!-- Call Logs Table -->
+<h2>Call Logs</h2>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Call SID</th>
+      <th>Timestamp</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for call in calls %}
+    <tr>
+      <td>{{ call.call_sid }}</td>
+      <td>{{ call.timestamp }}</td>
+      <td>
+        {% for key, value in call.data.items() %}
+          <strong>{{ key }}</strong>: {{ value }}<br>
+        {% endfor %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<!-- Chart Section -->
+<h2>Call Volume Over Time</h2>
+<canvas id="callsChart" width="400" height="200"></canvas>
+{% endblock %}
+
+{% block scripts %}
+<!-- Include Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('callsChart').getContext('2d');
+  const callsChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: {{ call_dates | safe }},
+      datasets: [{
+        label: 'Calls Over Time',
+        data: {{ call_counts | safe }},
+        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        borderColor: 'rgba(54, 162, 235, 1)',
+        borderWidth: 1,
+        fill: true
+      }]
+    },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true,
+          ticks: {
+            precision: 0
+          }
+        }
+      }
+    }
+  });
+</script>
+{% endblock %}

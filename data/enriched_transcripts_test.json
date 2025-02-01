@@ -1,0 +1,972 @@
+[
+  {
+    "file": "RE0003a7c4a13be6fe8a18e361143dba34.wav",
+    "transcript": "Hi there, good morning. My name's Cirque and I'm calling from M&H. Is there a quick call regarding the liability insurance? Do you know if that's been renewed recently or when it's coming up next? I don't know. You would need to email through to the sales at yorkstonesupplies.co.uk and they would be able to help you. Yes, that's absolutely fine. I'll try to drop a line on there but you have a lovely rest of your day. Thank you, bye-bye.",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 9.76,
+        "text": "Hi there, good morning. My name's Cirque and I'm calling from M&H. Is there a quick call",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 9.76,
+        "end": 14.4,
+        "text": "regarding the liability insurance? Do you know if that's been renewed recently or when",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 14.4,
+        "end": 15.4,
+        "text": "it's coming up next?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 15.4,
+        "end": 22.2,
+        "text": "I don't know. You would need to email through to the sales at yorkstonesupplies.co.uk and",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 22.2,
+        "end": 24.2,
+        "text": "they would be able to help you.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 24.2,
+        "end": 27.6,
+        "text": "Yes, that's absolutely fine. I'll try to drop a line on there but you have a lovely rest",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 27.6,
+        "end": 28.6,
+        "text": "of your day.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 28.6,
+        "end": 29.6,
+        "text": "Thank you, bye-bye.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [],
+      "names": [
+        "Cirque"
+      ],
+      "products": []
+    }
+  },
+  {
+    "file": "RE000ab6a383604ad0e87460f34d021a82.wav",
+    "transcript": "Yorkstone Supplies is the UK's largest supplier of Yorkstone, delivering quality stone in all shapes and sizes.",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.42,
+        "text": "Yorkstone Supplies is the UK's largest supplier of Yorkstone, delivering quality stone in",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 7.42,
+        "end": 12.86,
+        "text": "all shapes and sizes.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [],
+      "names": [
+        "Yorkstone"
+      ],
+      "products": []
+    }
+  },
+  {
+    "file": "RE000e4290256ea837f90e8e0091c2e05f.wav",
+    "transcript": "",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.36,
+        "text": "Thank you for calling Yorkstone Supplies, the UK's leading supplier of Yorkstone.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 5.36,
+        "end": 14.96,
+        "text": "Please press 1 for sales, 2 for deliveries, 3 for accounts and 4 for anything else.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 14.96,
+        "end": 19.6,
+        "text": "We are the UK's largest supplier of Yorkstone, and we offer the largest range of the highest",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 19.6,
+        "end": 22.64,
+        "text": "quality Yorkstone products direct from Yorkshire Quarry.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 22.64,
+        "end": 24.72,
+        "text": "Good morning, Yorkstone Supplies.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 24.72,
+        "end": 28.88,
+        "text": "Hello, I'm after a Pabenstone Gorge Worldale.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 29.119999999999997,
+        "end": 31.119999999999997,
+        "text": "Do you sell that Paben in York?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 31.119999999999997,
+        "end": 34.56,
+        "text": "No, Swale-Doe is not something that we supply.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 35.44,
+        "end": 38.0,
+        "text": "Okay, then love, no problem. Thank you.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 38.0,
+        "end": 39.36,
+        "text": "Thank you, bye-bye.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [],
+      "names": [],
+      "products": []
+    }
+  },
+  {
+    "file": "RE001a64d756318226b81f8ac4bc6abddf.wav",
+    "transcript": "",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 6.76,
+        "text": "Thank you for calling Yorkstone Supplies, the UK's leading supplier of Yorkstone.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 6.76,
+        "end": 10.96,
+        "text": "Our office is currently closed, but if you would like to leave us a message, one of our",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 10.96,
+        "end": 14.44,
+        "text": "team members will come back to you as soon as possible.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 14.44,
+        "end": 20.6,
+        "text": "Alternatively, you can email us at sales at yorkstonesupplies.co.uk.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 20.6,
+        "end": 22.6,
+        "text": "Please leave a message after the tone.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 22.6,
+        "end": 24.6,
+        "text": "Oh yes, good morning.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 24.6,
+        "end": 27.2,
+        "text": "It's John and Lissy Biggs here.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 27.2,
+        "end": 30.08,
+        "text": "We're looking to purchase a bull-nosed step.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 30.08,
+        "end": 34.12,
+        "text": "We have sent you an inquiry via email, but if you were able to give us a call back on",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 34.12,
+        "end": 40.4,
+        "text": "07747888867, that's John's number, that would be great to hear from you.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 40.4,
+        "end": 41.4,
+        "text": "Many thanks.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 41.4,
+        "end": 41.42,
+        "text": "Bye-bye.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [],
+      "names": [],
+      "products": []
+    }
+  },
+  {
+    "file": "RE001b57120e68938edcbb1c13ac0ba2fc.wav",
+    "transcript": "Hiya, I'm just trying to order some slabs off you guys. I was wondering if you can help though. I know the exact number that I need, but I'm just wondering how I can work out because obviously you're selling them as per square meter. Right, so which particular product is it? So I'm after the brick house, but the, so I'm just trying to get it up to the brick house, where are we at, sawn paving. Yeah, so what size do you require? So I want them 600 by 900s. Yeah, and how many? By 50 mil thick. Yeah, and I need 23 numbers of them. 23 did you say? Oh yeah, so it's ordered by square meter, yeah. Yeah, well it's just 0.54 of a meter each piece, so that's 12.42 square meters. So if I order 13 square meters. Well, if you order 12.42 you'll get exactly 23, so do you want to order... Can I do that, can I? 12.42. Yeah, so if you want to make sure that you've got a spare one, if you want to order 24... I've ordered a couple of spare already, yeah. Okay, well, 900 by 600 is 0.54 of a meter, so 0.54 by 23. Oh, it actually says you've been charged for 23 pieces, perfect, yeah, yeah, okay, super. Okay, brilliant, all right, wonderful, thank you very much. All right, you're welcome. And then it says on the website nine weeks at the moment, is that right? Yeah, well, we're actually on a 10-week lead at the moment. Okay, all right, no problems at all. No, but it's about 10 weeks at the moment. No problems. Okay, wonderful, thank you very much. All right, you're more than welcome. Appreciate your help, cheers, bye-bye. Bye-bye.",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 11.24,
+        "text": "Hiya, I'm just trying to order some slabs off you guys. I was wondering if you can help",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 11.24,
+        "end": 15.88,
+        "text": "though. I know the exact number that I need, but I'm just wondering how I can work out",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 15.88,
+        "end": 18.56,
+        "text": "because obviously you're selling them as per square meter.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 18.56,
+        "end": 21.44,
+        "text": "Right, so which particular product is it?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 21.44,
+        "end": 29.32,
+        "text": "So I'm after the brick house, but the, so I'm just trying to get it up to the brick",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 29.32,
+        "end": 34.6,
+        "text": "house, where are we at, sawn paving.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 34.6,
+        "end": 37.6,
+        "text": "Yeah, so what size do you require?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 37.6,
+        "end": 39.6,
+        "text": "So I want them 600 by 900s.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 39.6,
+        "end": 41.6,
+        "text": "Yeah, and how many?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 41.6,
+        "end": 47.040000000000006,
+        "text": "By 50 mil thick. Yeah, and I need 23 numbers of them.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 47.040000000000006,
+        "end": 50.040000000000006,
+        "text": "23 did you say?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 50.12,
+        "end": 52.839999999999996,
+        "text": "Oh yeah, so it's ordered by square meter, yeah.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 52.839999999999996,
+        "end": 59.72,
+        "text": "Yeah, well it's just 0.54 of a meter each piece, so that's 12.42 square meters.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 59.72,
+        "end": 63.08,
+        "text": "So if I order 13 square meters.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 63.08,
+        "end": 67.92,
+        "text": "Well, if you order 12.42 you'll get exactly 23, so do you want to order...",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 67.92,
+        "end": 71.84,
+        "text": "Can I do that, can I? 12.42.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 71.84,
+        "end": 77.64,
+        "text": "Yeah, so if you want to make sure that you've got a spare one, if you want to order 24...",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 77.64,
+        "end": 81.24,
+        "text": "I've ordered a couple of spare already, yeah.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 81.24,
+        "end": 89.0,
+        "text": "Okay, well, 900 by 600 is 0.54 of a meter, so 0.54 by 23.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 89.0,
+        "end": 94.36,
+        "text": "Oh, it actually says you've been charged for 23 pieces, perfect, yeah, yeah, okay, super.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 94.36,
+        "end": 96.72,
+        "text": "Okay, brilliant, all right, wonderful, thank you very much.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 96.72,
+        "end": 98.2,
+        "text": "All right, you're welcome.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 98.2,
+        "end": 102.68,
+        "text": "And then it says on the website nine weeks at the moment, is that right?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 102.68,
+        "end": 106.12,
+        "text": "Yeah, well, we're actually on a 10-week lead at the moment.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 106.12,
+        "end": 108.2,
+        "text": "Okay, all right, no problems at all.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 108.2,
+        "end": 110.28,
+        "text": "No, but it's about 10 weeks at the moment.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 110.28,
+        "end": 110.92,
+        "text": "No problems.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 111.80000000000001,
+        "end": 114.12,
+        "text": "Okay, wonderful, thank you very much.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 114.12,
+        "end": 115.88000000000001,
+        "text": "All right, you're more than welcome.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 115.88000000000001,
+        "end": 117.88000000000001,
+        "text": "Appreciate your help, cheers, bye-bye.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 117.88000000000001,
+        "end": 123.88000000000001,
+        "text": "Bye-bye.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [],
+      "names": [
+        "square meter"
+      ],
+      "products": [
+        "900s"
+      ]
+    }
+  },
+  {
+    "file": "RE001e1cf14a2c98a2b423275ebf49d16d.wav",
+    "transcript": "Hello, hi, I have an invoice from you, I'd like to pay over the phone, if that's okay? Okay, we don't take payment over the phone, so when we send you an invoice, we send you a link. Alternatively, our bank details are on there to do a back transfer. Right, okay, view and pay online now. Okay, I'll do that straight away. Alright, no problem. Thank you, and how long will it be until we get there? Yorkstone. Who is the invoice for? Yeah, no, that's fine, no problem whatsoever, I'll pay that today, and that's fine. Who's the invoice for, and I can give you an estimated lead time. It's London Marble Limited. Okay, well the lead time, he knows the lead time, it's late January. Lovely, that's fine, thank you very much. Okay. Thank you, bye-bye.",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 9.0,
+        "text": "Hello, hi, I have an invoice from you, I'd like to pay over the phone, if that's okay?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 9.0,
+        "end": 14.0,
+        "text": "Okay, we don't take payment over the phone, so when we send you an invoice, we send you a link.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 14.0,
+        "end": 17.0,
+        "text": "Alternatively, our bank details are on there to do a back transfer.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 17.0,
+        "end": 22.0,
+        "text": "Right, okay, view and pay online now. Okay, I'll do that straight away.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 22.0,
+        "end": 23.0,
+        "text": "Alright, no problem.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 23.0,
+        "end": 26.0,
+        "text": "Thank you, and how long will it be until we get there?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 26.0,
+        "end": 27.0,
+        "text": "Yorkstone.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 28.0,
+        "end": 31.0,
+        "text": "Who is the invoice for?",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 31.0,
+        "end": 35.0,
+        "text": "Yeah, no, that's fine, no problem whatsoever, I'll pay that today, and that's fine.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 35.0,
+        "end": 39.0,
+        "text": "Who's the invoice for, and I can give you an estimated lead time.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 39.0,
+        "end": 41.0,
+        "text": "It's London Marble Limited.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 41.0,
+        "end": 45.0,
+        "text": "Okay, well the lead time, he knows the lead time, it's late January.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 45.0,
+        "end": 47.0,
+        "text": "Lovely, that's fine, thank you very much.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 47.0,
+        "end": 48.0,
+        "text": "Okay.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 48.0,
+        "end": 50.0,
+        "text": "Thank you, bye-bye.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [],
+      "names": [
+        "London Marble Limited"
+      ],
+      "products": []
+    }
+  },
+  {
+    "file": "RE001e573ff16d47ae21afe8e1bdcb2d6b.wav",
+    "transcript": "Good morning. Hi. Good morning. I'm Mark Phillips from Multisip. Hello, how can I help? We got some samples from you a little while ago of Yorkstone. I'm just trying to find out the thicknesses of Yorkstone. We've got to put it into a kitchen floor and I'm just trying to find out what thickness it comes in. Is there different thicknesses or is it one specific? We can do 30, 40, 50mm or upwards. We don't do any less than 30. Okay, 30, 40, 50 and upwards. Perfect and nothing less than 30. Perfect. Thank you very much. Okay, you're more than welcome. Thank you. Next up, bye-bye.",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 9.16,
+        "text": "Good morning. Hi. Good morning. I'm Mark Phillips from Multisip. Hello, how can I help? We got",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 9.16,
+        "end": 12.4,
+        "text": "some samples from you a little while ago of Yorkstone. I'm just trying to find out",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 12.4,
+        "end": 17.080000000000002,
+        "text": "the thicknesses of Yorkstone. We've got to put it into a kitchen floor and I'm",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 17.080000000000002,
+        "end": 20.88,
+        "text": "just trying to find out what thickness it comes in. Is there different thicknesses",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 20.88,
+        "end": 26.76,
+        "text": "or is it one specific? We can do 30, 40, 50mm or upwards. We don't do any less than 30.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 27.0,
+        "end": 34.36,
+        "text": "Okay, 30, 40, 50 and upwards. Perfect and nothing less than 30. Perfect. Thank you very much.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 34.36,
+        "end": 38.400000000000006,
+        "text": "Okay, you're more than welcome. Thank you. Next up, bye-bye.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [],
+      "names": [
+        "Multisip",
+        "Mark Phillips"
+      ],
+      "products": []
+    }
+  },
+  {
+    "file": "RE002b136aeaea1f9e50700154aae3d157.wav",
+    "transcript": "",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.0,
+        "text": "Thank you for calling Yorkstone Supplies, the UK's largest Yorkstone supplier.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 7.0,
+        "end": 14.0,
+        "text": "Press one for sales, two for deliveries, three for accounts and four for anything else.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 30.0,
+        "end": 33.0,
+        "text": "Thank you.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [],
+      "names": [],
+      "products": []
+    }
+  },
+  {
+    "file": "RE002c5c1aebe5330dc63d99b194e98b37.wav",
+    "transcript": "Hi, you're through to Mel at Amalo Gardens. Unfortunately, we are fully booked for this year and I will start doing quotes again in February of next year. If you'd like me to put you on a call back list, seven year text. Many thanks, bye. Please leave your message after the tone. To re-record your message, press hash at any time. Hello there, I'm calling from Yorkstone Supplies. I just wanted to have a chat with you really and let you know we can supply any type of stone you need for your projects. Give us a call back on 01483 930 104. We'll also send you some information via your email address. Hope we hear from you soon. Thank you, bye.",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.88,
+        "text": "Hi, you're through to Mel at Amalo Gardens. Unfortunately, we are fully booked for this",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 5.88,
+        "end": 13.64,
+        "text": "year and I will start doing quotes again in February of next year. If you'd like me to",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 13.64,
+        "end": 21.04,
+        "text": "put you on a call back list, seven year text. Many thanks, bye.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 21.04,
+        "end": 26.18,
+        "text": "Please leave your message after the tone. To re-record your message, press hash at any",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 26.18,
+        "end": 27.18,
+        "text": "time.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 27.18,
+        "end": 32.66,
+        "text": "Hello there, I'm calling from Yorkstone Supplies. I just wanted to have a chat with you really",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 32.66,
+        "end": 37.22,
+        "text": "and let you know we can supply any type of stone you need for your projects. Give us",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 37.22,
+        "end": 48.46,
+        "text": "a call back on 01483 930 104. We'll also send you some information via your email address.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 48.46,
+        "end": 50.42,
+        "text": "Hope we hear from you soon. Thank you, bye.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [
+        "01483 930 104"
+      ],
+      "names": [
+        "Mel",
+        "Yorkstone Supplies"
+      ],
+      "products": []
+    }
+  },
+  {
+    "file": "RE002cf28afa24846a620bacf9eb766b93.wav",
+    "transcript": "Good morning, sir. Hi. Hi. Hi. Is that Donna? It is. Donna, hi. It's Nigel Cox here, Wilkinson Cox. Hello, Nigel. Hi. Alright. Donna, a couple of things. One, we're just doing a, I'm just doing a quote for, to supply some York stone for a job in Essex. And we need them as sort of, they're sort of randomly laid in the lawn of stepping stones. So I've got that, I've got the meat rich, but I need them. Can we do them so they would be no smaller than about 400 or 400? It's in reclaimed. In reclaimed, in cathedral. I can't remember what you call it now. We would struggle to do that because obviously it would just cause a lot of wastage for us. Right. Okay. Okay. We just sell them random by random. We don't pick them out anymore. So most of them are the right size. So what I might do is I might talk them into ordering a little bit more than they can pick them out. Yeah. Okay. I'm sorry. We used to, but now it's, it just, because of the orders, it just becomes impossible. I understand. I understand. Yeah. Yeah. Okay. The answer to that. Well, I'll work out, I'll tell you what, can you, could you send me a quote for, um, uh, 18 meters, 18 square meters? And is it 30 to 90 mil? 30 to 90. Yeah. So whatever we just had on that last job. So cathedral, I've got, I've got to get used to the new names, weren't I? Yeah. Yeah. No, that's all right. 18 square meters. All right. No problem. I'll send over. And that's, yeah. And the delivery is to Chigwell in a six. Chigwell. Okay. All right. And the other thing is that job, you've just had a lovely stone, by the way, we've nearly finished all that. Um, take it through a house. That was fun. I can tell you. Oh my goodness. The whole lot. Um, we'd got some, I ordered it quite lean because of the access. So I knew we'd need a little bit more, but we need some for, um, uh, like steps and things like that. Is there a way I can, that we can organize that with the dimensions or, or come and select out or something like that? Well, we don't have a great deal of stock. So do you know what our, our cranny yard, cause obviously everything comes directly. We, we've got a yard in man. I see. So most of it, most of it you don't see you've got it. Yeah. Yeah. Because most of it obviously comes from our boys in Manchester. So do you know what the dimensions are? Cause yeah, I could send that. I could email that through and you could give me a, give me a price on that. Um, I was just thinking what might be better for you is if we produce those in the aged because then they're all calibrated to 50 mil. So similar to the request. Yeah. Cause what I've done is I've, I've, I've selected that when we did this job, I selected some out, um, some of the nice bigger bits that we can cut and make into steps. Um, but they're originally in our brick steps that they've now done them in York. Um, but they want to be, yeah, they want to have that. They, you know, they, they, they want to be good on the, on one face anyway. Um, okay. Well, that would be perfect. That would be perfect. I can, yeah, I can send you through and I mean, could almost do it as a cutting list or something. Yeah. If you do a cutting list, then what I can do is I can send you over to the boys in the Manchester yard, but also give you a price if we did it in aged. So then you can talk to the two. Brilliant. All right. I'll, I'll pop that through. Great. Thanks for that, Donna. Okay. Lovely. Thanks a lot. Okay. Bye.",
+    "customer_transcript": "",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 9.02,
+        "text": "Good morning, sir. Hi. Hi. Hi. Is that Donna? It is. Donna, hi. It's Nigel Cox here, Wilkinson",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 9.02,
+        "end": 17.72,
+        "text": "Cox. Hello, Nigel. Hi. Alright. Donna, a couple of things. One, we're just doing a,",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 17.72,
+        "end": 25.88,
+        "text": "I'm just doing a quote for, to supply some York stone for a job in Essex. And we need",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 26.4,
+        "end": 31.919999999999998,
+        "text": "them as sort of, they're sort of randomly laid in the lawn of stepping stones. So I've",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 31.919999999999998,
+        "end": 38.239999999999995,
+        "text": "got that, I've got the meat rich, but I need them. Can we do them so they would be no smaller",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 38.239999999999995,
+        "end": 45.239999999999995,
+        "text": "than about 400 or 400? It's in reclaimed. In reclaimed, in cathedral. I can't remember",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 45.239999999999995,
+        "end": 50.68,
+        "text": "what you call it now. We would struggle to do that because obviously it would just cause",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 50.68,
+        "end": 57.08,
+        "text": "a lot of wastage for us. Right. Okay. Okay. We just sell them random by random. We don't",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 57.08,
+        "end": 61.24,
+        "text": "pick them out anymore. So most of them are the right size. So what I might do is I might",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 61.24,
+        "end": 66.0,
+        "text": "talk them into ordering a little bit more than they can pick them out. Yeah. Okay. I'm sorry.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 66.0,
+        "end": 70.44,
+        "text": "We used to, but now it's, it just, because of the orders, it just becomes impossible.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 70.44,
+        "end": 74.28,
+        "text": "I understand. I understand. Yeah. Yeah. Okay. The answer to that. Well, I'll work out, I'll",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 74.28,
+        "end": 82.4,
+        "text": "tell you what, can you, could you send me a quote for, um, uh, 18 meters, 18 square",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 82.4,
+        "end": 90.48,
+        "text": "meters? And is it 30 to 90 mil? 30 to 90. Yeah. So whatever we just had on that last",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 90.48,
+        "end": 95.56,
+        "text": "job. So cathedral, I've got, I've got to get used to the new names, weren't I? Yeah. Yeah.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 95.56,
+        "end": 100.16,
+        "text": "No, that's all right. 18 square meters. All right. No problem. I'll send over. And that's,",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 101.16,
+        "end": 107.6,
+        "text": "yeah. And the delivery is to Chigwell in a six. Chigwell. Okay. All right. And the other",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 107.6,
+        "end": 110.84,
+        "text": "thing is that job, you've just had a lovely stone, by the way, we've nearly finished all",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 110.84,
+        "end": 116.8,
+        "text": "that. Um, take it through a house. That was fun. I can tell you. Oh my goodness. The whole",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 116.8,
+        "end": 121.92,
+        "text": "lot. Um, we'd got some, I ordered it quite lean because of the access. So I knew we'd",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 121.92,
+        "end": 130.12,
+        "text": "need a little bit more, but we need some for, um, uh, like steps and things like that. Is",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 130.12,
+        "end": 136.64000000000001,
+        "text": "there a way I can, that we can organize that with the dimensions or, or come and select",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 136.64000000000001,
+        "end": 141.08,
+        "text": "out or something like that? Well, we don't have a great deal of stock. So do you know",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 141.08,
+        "end": 145.28,
+        "text": "what our, our cranny yard, cause obviously everything comes directly. We, we've got a",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 145.28,
+        "end": 148.56,
+        "text": "yard in man. I see. So most of it, most of it you don't see you've got it. Yeah. Yeah.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 148.56,
+        "end": 152.96,
+        "text": "Because most of it obviously comes from our boys in Manchester. So do you know what the",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 152.96,
+        "end": 156.88,
+        "text": "dimensions are? Cause yeah, I could send that. I could email that through and you could give",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 156.96,
+        "end": 162.16,
+        "text": "me a, give me a price on that. Um, I was just thinking what might be better for you is if",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 162.16,
+        "end": 169.07999999999998,
+        "text": "we produce those in the aged because then they're all calibrated to 50 mil. So similar",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 169.07999999999998,
+        "end": 172.72,
+        "text": "to the request. Yeah. Cause what I've done is I've, I've, I've selected that when we",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 172.72,
+        "end": 176.92,
+        "text": "did this job, I selected some out, um, some of the nice bigger bits that we can cut and",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 176.92,
+        "end": 180.76,
+        "text": "make into steps. Um, but they're originally in our brick steps that they've now done them",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 180.76,
+        "end": 184.76,
+        "text": "in York. Um, but they want to be, yeah, they want to have that. They, you know, they, they,",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 184.76,
+        "end": 189.44,
+        "text": "they want to be good on the, on one face anyway. Um, okay. Well, that would be perfect.",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 189.44,
+        "end": 192.92,
+        "text": "That would be perfect. I can, yeah, I can send you through and I mean, could almost",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 192.92,
+        "end": 196.2,
+        "text": "do it as a cutting list or something. Yeah. If you do a cutting list, then what I can",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 196.2,
+        "end": 199.51999999999998,
+        "text": "do is I can send you over to the boys in the Manchester yard, but also give you a price",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 199.51999999999998,
+        "end": 204.64,
+        "text": "if we did it in aged. So then you can talk to the two. Brilliant. All right. I'll, I'll",
+        "speaker": "Unknown"
+      },
+      {
+        "start": 204.64,
+        "end": 211.64,
+        "text": "pop that through. Great. Thanks for that, Donna. Okay. Lovely. Thanks a lot. Okay. Bye.",
+        "speaker": "Unknown"
+      }
+    ],
+    "entities": {
+      "emails": [],
+      "phone_numbers": [],
+      "names": [
+        "Nigel",
+        "Donna",
+        "Nigel Cox",
+        "Wilkinson Cox",
+        "Chigwell"
+      ],
+      "products": []
+    }
+  }
+]

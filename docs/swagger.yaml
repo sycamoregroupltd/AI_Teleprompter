@@ -1,0 +1,23 @@
+openapi: 3.0.0
+info:
+  title: Teleprompter API
+  description: This is the API documentation for the Teleprompter project. It provides details on the available endpoints and their usage.
+  version: "1.0.0"
+servers:
+  - url: http://localhost:8000/api
+paths:
+  /example:
+    get:
+      summary: Retrieve an example resource
+      description: Returns a simple message as an example.
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: "Hello, world!"

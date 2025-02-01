@@ -339,3 +339,12 @@ Use this document as a reference for how each piece fits together, how to deploy
 
 End of Technical Sheet.
 
+## Project Enhancements
+
+- Code has been reorganized into dedicated packages:
+  - controllers: Contains dashboard and user management modules.
+  - services: Contains API endpoint, processing, feedback, main, prompter, realtime, and rich processing modules.
+  - models: Contains database models, schema definitions, and database helpers.
+  - tests: Contains unit tests.
+- Added basic logging configuration in services/main.py.
+- Prepared sample unit test in tests/test_sample.py.

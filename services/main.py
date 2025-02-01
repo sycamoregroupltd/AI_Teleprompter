@@ -1,3 +1,5 @@
+import logging
+nlogging.basicConfig(level=logging.INFO)
 import os
 from dotenv import load_dotenv
 from fastapi import FastAPI, Request, Depends
